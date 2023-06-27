@@ -1,0 +1,17 @@
+{
+  "params":
+  {
+   "local_server": "True",
+    "local_uri": "mysql://root:@localhost/medical",
+    "proud_uri": "mysql://root:@localhost/medical",
+    "fb_url":"https://www.facebook.com/swarnesh.swarnesh.56?mibextid=ZbWKwL/",
+    "tw_url":"https://twitter.com/SwarneshwarV?t=6S9BHDlprHkWQPb7i-vHBQ&s=09",
+    "gh_url":"https://github.com/swarneshwar21",
+    "blog_name": "WELCOME",
+    "headname": "MEDICAL SUPPLY MANAGEMENT",
+    "user": "swarnesh",
+    "password": "swarnesh",
+    "login_image": "aple.jpg"
+
+  }
+}
